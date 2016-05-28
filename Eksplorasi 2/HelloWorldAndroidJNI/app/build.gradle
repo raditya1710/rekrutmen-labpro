@@ -20,7 +20,14 @@ android {
         jniLibs.srcDir 'src/main/libs'
 
     }
-
+    productFlavors{
+        x86{
+            ndk{
+                abiFilters "x86"
+            }
+        }
+        fat
+    }
     buildTypes {
         release {
             minifyEnabled false
