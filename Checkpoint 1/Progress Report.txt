@@ -1,0 +1,5 @@
+Jakarta, 10 Juli 2016
+
+1. Proyek yang sudah dikerjakan masih bersifat sangat awal (masih template)
+2. Sudah dapat menghubungkan project android ke database (yaitu berupa firebase)
+3. Sudah dapat menambahkan template view untuk daftar proyek dan daftar internship
