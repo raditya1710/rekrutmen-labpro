@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HMIFPIOrganizer</string>
+    <string name="app_label">String</string>
+    <string name="search_hint">Search me</string>
+    <string name="button_text">Go to Search</string>
+    <string name="add_data">Add Data</string>
 </resources>
